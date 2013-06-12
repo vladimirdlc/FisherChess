@@ -7,7 +7,7 @@ A simple chess game with multiple and editable modes of initialization of pieces
 This was one of my master's projects, OOP and desing patterns, with some added improvements. 
 
 You can download the lastest compile ready to play (Requires JRE) from:
-https://docs.google.com/file/d/0ByKX10VFT0HrRmtSanUxUFA3QzQ/edit?usp=sharing
+https://docs.google.com/file/d/0ByKX10VFT0HrTzZJbEdfSTZ2a3M/edit?usp=sharing
 
 Made by Vladimir de la Cruz
 
