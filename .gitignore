@@ -4,3 +4,6 @@
 *.jar
 *.war
 *.ear
+
+# But not these
+!lib/swing-layout-1.0.4.jar
