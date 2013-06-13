@@ -3,7 +3,7 @@ FisherChess
 
 A Simple Java Fisher Chess Game
 
-A simple chess game with multiple and editable modes of initialization of pieces!
+A simple chess game in Swing with multiple and editable modes of initialization of pieces!
 This was one of my master's projects, OOP and desing patterns, with some added improvements. 
 
 You can download the lastest compile ready to play (Requires JRE) from:
